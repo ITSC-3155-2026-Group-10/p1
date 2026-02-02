@@ -27,7 +27,7 @@ body {
   margin-right: 10px;
 }
 
-.box_content:hover {
+.box-content:hover {
   cursor: grab;
   background-color: yellow;
   color: goldenrod;
